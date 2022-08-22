@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "http://142.93.125.126:8081/api/{session}",
+      "url": "http://localhost:21465/api/{session}",
       "variables": {
         "session": {
           "default": "NERDWHATS_AMERICA",
