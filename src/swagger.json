@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:80/api/{session}",
+      "url": "https://api.melakhactu.com/api/{session}",
       "variables": {
         "session": {
           "default": "NERDWHATS_AMERICA",
