@@ -31,7 +31,7 @@
             "style": "simple",
             "schema": {
               "type": "string",
-              "example": "THISISMYSECURETOKEN"
+              "example": "R8yKeF9QzGot"
             }
           }
         ],
