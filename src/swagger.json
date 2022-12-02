@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://api.melakhactu.com/api/{session}",
+      "url": "https://backend.psync.media/api/{session}",
       "variables": {
         "session": {
           "default": "NERDWHATS_AMERICA",
